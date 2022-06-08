@@ -1418,3 +1418,28 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.06.08-09.26.30:249][634]LogEditorTransaction: Undo Modify Component(s)
 [2022.06.08-09.28.56:781][305]Cmd: EDIT COPY
 [2022.06.08-09.28.58:575][328]Cmd: EDIT PASTE
+[2022.06.08-09.33.11:733][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2022.06.08-09.33.11:765][ 74]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto4
+[2022.06.08-09.33.11:765][ 74]LogSavePackage: Moving '../../../../../../Users/VAL/Documents/Unreal Projects/MyProject/Saved/Minimal_Default_Auto45A0D393C400A4FA5F3433D8F260EA308.tmp' to '../../../../../../Users/VAL/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto4.umap'
+[2022.06.08-09.33.11:780][ 74]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.170
+[2022.06.08-09.33.11:780][ 74]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.170
+[2022.06.08-09.33.11:781][ 74]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Dich/Fan] ([2] browsable assets)...
+[2022.06.08-09.33.11:854][ 74]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Dich/Fan.Fan]
+[2022.06.08-09.33.11:856][ 74]OBJ SavePackage: Finished generating thumbnails for package [/Game/Dich/Fan]
+[2022.06.08-09.33.11:856][ 74]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dich/Fan" FILE="../../../../../../Users/VAL/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Dich/Fan_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2022.06.08-09.33.11:862][ 74]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Dich/Fan_Auto4
+[2022.06.08-09.33.11:862][ 74]LogSavePackage: Moving '../../../../../../Users/VAL/Documents/Unreal Projects/MyProject/Saved/Fan_Auto483EFCCB54D7B6832AD4F828C19B987AB.tmp' to '../../../../../../Users/VAL/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/Dich/Fan_Auto4.uasset'
+[2022.06.08-09.33.11:864][ 74]LogFileHelpers: Auto-saving content packages took 0.083
+[2022.06.08-09.33.22:596][140]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2022.06.08-09.33.24:048][140]LogSlate: Window 'Save Content' being destroyed
+[2022.06.08-09.33.24:302][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dich/Fan" FILE="../../../../../../Users/VAL/Documents/Unreal Projects/MyProject/Content/Dich/Fan.uasset" SILENT=true
+[2022.06.08-09.33.24:308][140]LogSavePackage: Moving output files for package: /Game/Dich/Fan
+[2022.06.08-09.33.24:309][140]LogSavePackage: Moving '../../../../../../Users/VAL/Documents/Unreal Projects/MyProject/Saved/Fan091DB1704A965ECEBD106086CA312A76.tmp' to '../../../../../../Users/VAL/Documents/Unreal Projects/MyProject/Content/Dich/Fan.uasset'
+[2022.06.08-09.33.24:359][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2022.06.08-09.33.24:373][140]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/Minimal_Default
+[2022.06.08-09.33.24:374][140]LogSavePackage: Moving '../../../../../../Users/VAL/Documents/Unreal Projects/MyProject/Saved/Minimal_Default25BACC9C432DDF3B9508F6AA3FBAA979.tmp' to '../../../../../../Users/VAL/Documents/Unreal Projects/MyProject/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.06.08-09.33.24:392][140]LogFileHelpers: No new changes to save!
+[2022.06.08-09.33.24:392][140]LogFileHelpers: Saving map 'Minimal_Default' took 0.081
+[2022.06.08-09.33.24:409][140]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.08-09.33.24:409][140]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.06.08-09.33.24:409][140]LogContentValidation: Display: Validating Blueprint /Game/Dich/Fan.Fan
