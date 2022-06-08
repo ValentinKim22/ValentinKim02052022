@@ -1371,3 +1371,50 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.06.08-09.05.34:992][988]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
 [2022.06.08-09.05.36:564][988]LogViewport: Scene viewport resized to 467x329, mode Windowed.
 [2022.06.08-09.05.47:497][ 45]SourceControl: fatal: /Script: '/Script' is outside repository at 'C:/Users/VAL/Documents/Unreal Projects/MyProject'
+[2022.06.08-09.08.18:264][756]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Dich/Fan.Fan_C
+[2022.06.08-09.08.18:264][756]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Dich/Fan.Fan_C
+[2022.06.08-09.08.18:270][756]LogActorFactory: Actor Factory spawned Blueprint /Game/Dich/Fan.Fan as actor: Fan_C /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Fan_C_0
+[2022.06.08-09.08.18:280][756]LogActorFactory: Actor Factory spawned Blueprint /Game/Dich/Fan.Fan as actor: Fan_C /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Fan_C_0
+[2022.06.08-09.08.22:507][855]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Dich/Fan.Fan_C
+[2022.06.08-09.08.22:507][855]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Dich/Fan.Fan_C
+[2022.06.08-09.08.22:516][855]LogActorFactory: Actor Factory spawned Blueprint /Game/Dich/Fan.Fan as actor: Fan_C /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Fan_C_1
+[2022.06.08-09.08.22:524][855]LogActorFactory: Actor Factory spawned Blueprint /Game/Dich/Fan.Fan as actor: Fan_C /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.Fan_C_1
+[2022.06.08-09.11.47:912][791]LogViewport: Scene viewport resized to 626x329, mode Windowed.
+[2022.06.08-09.11.57:619][986]LogSlate: Window 'Details' being destroyed
+[2022.06.08-09.12.29:462][620]LogSlate: Window 'Details' being destroyed
+[2022.06.08-09.12.38:898][732]LogSlate: Window 'Details' being destroyed
+[2022.06.08-09.12.50:058][232]LogSlate: Window 'Details' being destroyed
+[2022.06.08-09.15.06:681][103]LogSlate: Window 'Fan' being destroyed
+[2022.06.08-09.15.06:690][103]LogSlate: Window 'Fan' being destroyed
+[2022.06.08-09.15.06:721][103]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.06.08-09.15.06:721][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.08-09.15.07:196][103]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.06.08-09.15.07:196][103]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.06.08-09.15.07:197][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.08-09.15.25:028][355]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dich/Fan.Fan
+[2022.06.08-09.15.25:038][355]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.08-09.15.28:475][368]LogViewport: Scene viewport resized to 626x327, mode Windowed.
+[2022.06.08-09.21.23:357][  1]LogUObjectHash: Compacting FUObjectHashTables data took   5.03ms
+[2022.06.08-09.21.23:396][  1]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto3
+[2022.06.08-09.21.23:396][  1]LogSavePackage: Moving '../../../../../../Users/VAL/Documents/Unreal Projects/MyProject/Saved/Minimal_Default_Auto3880CE71A457B60761675D9BEFD8815F9.tmp' to '../../../../../../Users/VAL/Documents/Unreal Projects/MyProject/Saved/Autosaves/Game/StarterContent/Maps/Minimal_Default_Auto3.umap'
+[2022.06.08-09.21.23:409][  1]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.205
+[2022.06.08-09.21.23:409][  1]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.205
+[2022.06.08-09.21.38:701][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2022.06.08-09.21.40:301][ 82]LogSlate: Window 'Save Content' being destroyed
+[2022.06.08-09.21.40:947][ 82]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Dich/Fan" FILE="../../../../../../Users/VAL/Documents/Unreal Projects/MyProject/Content/Dich/Fan.uasset" SILENT=true
+[2022.06.08-09.21.40:969][ 82]LogSavePackage: Moving output files for package: /Game/Dich/Fan
+[2022.06.08-09.21.40:969][ 82]LogSavePackage: Moving '../../../../../../Users/VAL/Documents/Unreal Projects/MyProject/Saved/Fan58F57177482D4F719E309AB325840117.tmp' to '../../../../../../Users/VAL/Documents/Unreal Projects/MyProject/Content/Dich/Fan.uasset'
+[2022.06.08-09.21.41:039][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.06.08-09.21.41:060][ 82]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/Minimal_Default
+[2022.06.08-09.21.41:061][ 82]LogSavePackage: Moving '../../../../../../Users/VAL/Documents/Unreal Projects/MyProject/Saved/Minimal_Default508558384B33296FA53F6D9A06306063.tmp' to '../../../../../../Users/VAL/Documents/Unreal Projects/MyProject/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.06.08-09.21.41:099][ 82]LogFileHelpers: No new changes to save!
+[2022.06.08-09.21.41:395][ 82]LogFileHelpers: Saving map 'Minimal_Default' took 0.423
+[2022.06.08-09.21.41:439][ 82]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.08-09.21.41:439][ 82]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.06.08-09.21.41:439][ 82]LogContentValidation: Display: Validating Blueprint /Game/Dich/Fan.Fan
+[2022.06.08-09.24.08:937][837]LogEditorTransaction: Undo Modify Component(s)
+[2022.06.08-09.26.10:799][442]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2022.06.08-09.26.20:974][553]LogEditorTransaction: Undo Modify Component(s)
+[2022.06.08-09.26.30:249][634]LogEditorTransaction: Undo Modify Component(s)
+[2022.06.08-09.28.56:781][305]Cmd: EDIT COPY
+[2022.06.08-09.28.58:575][328]Cmd: EDIT PASTE
