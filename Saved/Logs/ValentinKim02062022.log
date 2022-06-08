@@ -1443,3 +1443,33 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.06.08-09.33.24:409][140]AssetCheck: New page: Asset Save: multiple assets
 [2022.06.08-09.33.24:409][140]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
 [2022.06.08-09.33.24:409][140]LogContentValidation: Display: Validating Blueprint /Game/Dich/Fan.Fan
+[2022.06.08-09.36.31:169][157]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.06.08-09.36.31:180][157]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.06.08-09.36.31:187][157]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.06.08-09.36.31:204][158]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.06.08-09.36.45:571][346]LogContentBrowser: Attempting asset rename: NewBlueprint -> lopast
+[2022.06.08-09.36.47:594][346]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.06.08-09.36.54:145][593]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dich/lopast.lopast
+[2022.06.08-09.36.54:161][593]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.08-09.36.55:224][593]LogViewport: Scene viewport resized to 626x329, mode Windowed.
+[2022.06.08-09.37.23:823][600]LogViewport: Scene viewport resized to 626x330, mode Windowed.
+[2022.06.08-09.37.23:963][600]LogViewport: Scene viewport resized to 626x399, mode Windowed.
+[2022.06.08-09.37.24:137][600]LogViewport: Scene viewport resized to 626x451, mode Windowed.
+[2022.06.08-09.37.24:255][600]LogViewport: Scene viewport resized to 626x485, mode Windowed.
+[2022.06.08-09.37.24:372][600]LogViewport: Scene viewport resized to 626x486, mode Windowed.
+[2022.06.08-09.41.50:003][514]LogSlate: Window 'lopast' being destroyed
+[2022.06.08-09.41.50:041][514]LogSlate: Window 'lopast' being destroyed
+[2022.06.08-09.41.50:055][514]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.06.08-09.41.50:058][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.08-09.41.50:298][514]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.06.08-09.41.50:298][514]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.06.08-09.41.50:298][514]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.08-09.41.59:511][566]LogUObjectHash: Compacting FUObjectHashTables data took  30.33ms
+[2022.06.08-09.42.03:882][566]LogSlate: Window 'Delete Assets' being destroyed
+[2022.06.08-09.42.03:998][566]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Dich/lopast.lopast
+	Asset Type: Blueprint
+[2022.06.08-09.42.04:783][566]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2022.06.08-09.42.04:950][566]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2022.06.08-09.42.04:987][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2022.06.08-09.42.05:026][566]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
