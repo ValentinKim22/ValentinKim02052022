@@ -1281,3 +1281,93 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.06.08-08.47.28:239][388]AssetCheck: New page: Asset Save: multiple assets
 [2022.06.08-08.47.28:239][388]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
 [2022.06.08-08.47.28:240][388]LogContentValidation: Display: Validating Blueprint /Game/Dich/Lamp.Lamp
+[2022.06.08-08.51.23:708][660]LogUObjectHash: Compacting FUObjectHashTables data took   7.60ms
+[2022.06.08-08.53.32:161][955]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2022.06.08-08.53.32:161][955]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2022.06.08-08.53.32:174][955]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_1
+[2022.06.08-08.53.32:182][955]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_1
+[2022.06.08-08.54.20:593][612]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_1.StaticMeshComponent0)
+[2022.06.08-08.54.20:671][613]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_1.StaticMeshComponent0)
+[2022.06.08-08.54.21:151][619]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_1.StaticMeshComponent0)
+[2022.06.08-08.54.21:152][619]LogNavigationDirtyArea: Warning: Skipping dirty area creation because of empty bounds (object: StaticMeshComponent /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_1.StaticMeshComponent0)
+[2022.06.08-08.56.14:747][458]Cmd: TRANSACTION UNDO
+[2022.06.08-08.56.14:748][458]LogEditorTransaction: Undo Move Elements
+[2022.06.08-08.56.15:324][464]Cmd: TRANSACTION UNDO
+[2022.06.08-08.56.15:324][464]LogEditorTransaction: Undo Clicking on Elements
+[2022.06.08-08.56.39:815][276]Cmd: EDIT COPY
+[2022.06.08-08.58.17:408][429]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2022.06.08-08.58.17:408][429]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2022.06.08-08.58.17:416][429]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_2
+[2022.06.08-08.58.17:418][429]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/StarterContent/Maps/Minimal_Default.Minimal_Default:PersistentLevel.StaticMeshActor_2
+[2022.06.08-09.03.59:586][862]LogDerivedDataCache: C:/Users/VAL/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.063 and deleted 0 file(s) with total size 0 MiB.
+[2022.06.08-09.04.18:366][156]Cmd: POLY SELECT ALL
+[2022.06.08-09.04.19:092][169]Cmd: POLY SELECT ALL
+[2022.06.08-09.04.19:552][177]Cmd: POLY SELECT ALL
+[2022.06.08-09.04.19:838][182]Cmd: POLY SELECT MEMORY UNION
+[2022.06.08-09.04.22:018][207]LogUObjectHash: Compacting FUObjectHashTables data took   5.24ms
+[2022.06.08-09.04.22:055][207]LogSavePackage: Moving output files for package: /Game/StarterContent/Maps/Minimal_Default
+[2022.06.08-09.04.22:057][207]LogSavePackage: Moving '../../../../../../Users/VAL/Documents/Unreal Projects/MyProject/Saved/Minimal_DefaultF6E393F44867E53DFEB51DAAC9391F08.tmp' to '../../../../../../Users/VAL/Documents/Unreal Projects/MyProject/Content/StarterContent/Maps/Minimal_Default.umap'
+[2022.06.08-09.04.22:093][207]LogFileHelpers: No new changes to save!
+[2022.06.08-09.04.22:131][207]AssetCheck: New page: Asset Save: Minimal_Default
+[2022.06.08-09.04.22:131][207]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2022.06.08-09.04.23:878][237]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.08-09.04.23:887][237]PIE: New page: SIE session: Minimal_Default (8 июн. 2022 г., 23:04:23)
+[2022.06.08-09.04.23:890][237]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.06.08-09.04.23:914][237]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022062s)
+[2022.06.08-09.04.23:914][237]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/Minimal_Default.Minimal_Default to /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default (0.024207s)
+[2022.06.08-09.04.23:915][237]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.06.08-09.04.23:916][237]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.08-09.04.23:919][237]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.06.08-09.04.23:923][237]LogPlayLevel: PIE: World Init took: (0.008418s)
+[2022.06.08-09.04.24:016][237]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2022.06.08-09.04.24:020][237]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2022.06.08-09.04.24:022][237]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.08-09.04.24:022][237]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.08-09.04.24:022][237]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.08-09.04.24:022][237]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.08-09.04.24:022][237]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.08-09.04.24:023][237]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.06.08-09.04.24:023][237]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.08-09.04.24:023][237]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.08-09.04.24:026][237]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.06.08-09.04.24:026][237]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.06.08-09.04.24:026][237]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.06.08-09.04.24:032][237]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.06.08-09.04.24:070][237]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek(R) Audio)
+[2022.06.08-09.04.24:073][237]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.08-09.04.24:073][237]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.08-09.04.24:073][237]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.08-09.04.24:076][237]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2022.06.08-09.04.24:076][237]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2022.06.08-09.04.24:080][237]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2022.06.08-09.04.24:080][237]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2022.06.08-09.04.24:080][237]LogInit: FAudioDevice initialized.
+[2022.06.08-09.04.24:080][237]LogAudio: Display: Audio Device (ID: 9) registered with world 'Minimal_Default'.
+[2022.06.08-09.04.24:132][237]LogLoad: Game class is 'GameModeBase'
+[2022.06.08-09.04.24:133][237]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default.Minimal_Default up for play (max tick rate 0) at 2022.06.08-16.04.24
+[2022.06.08-09.04.24:136][237]LogWorld: Bringing up level for play took: 0.003593
+[2022.06.08-09.04.24:147][237]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2022.06.08-09.04.24:153][237]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.06.08-09.04.24:167][237]PIE: Server logged in
+[2022.06.08-09.04.24:169][237]PIE: Play in editor total start time 0,296 seconds.
+[2022.06.08-09.04.31:599][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.08-09.04.31:599][342]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_Minimal_Default
+[2022.06.08-09.04.31:610][342]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2022.06.08-09.04.31:616][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.08-09.04.31:728][342]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.08-09.04.31:742][342]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.08-09.04.31:834][342]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.08-09.04.31:840][342]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2022.06.08-09.04.31:845][342]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2022.06.08-09.04.31:870][342]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2022.06.08-09.04.31:939][343]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.06.08-09.05.28:606][893]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.06.08-09.05.28:623][893]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.06.08-09.05.28:632][893]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.06.08-09.05.28:664][894]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2022.06.08-09.05.32:822][959]LogContentBrowser: Attempting asset rename: NewBlueprint -> Fan
+[2022.06.08-09.05.33:231][959]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.06.08-09.05.34:989][988]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Dich/Fan.Fan
+[2022.06.08-09.05.34:992][988]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.06.08-09.05.36:564][988]LogViewport: Scene viewport resized to 467x329, mode Windowed.
+[2022.06.08-09.05.47:497][ 45]SourceControl: fatal: /Script: '/Script' is outside repository at 'C:/Users/VAL/Documents/Unreal Projects/MyProject'
